@@ -35,6 +35,14 @@ Aprenda a usar sua plataforma de forma eficaz, e aproveite ao máximo seus recur
   No campo: Definir a sua disponibilidade, marque a caixa de seleção. Em seguida vai sugir uma lista para defenir sua configuração de horário de atendimento para cada dia da semana.
 </details>
 
+<details>
+<summary>Habilitei o typebot mas não abre na conta do cliente?</summary>
+  Se você habilitou o typebot na conta do seu cliente, e ele não está abrindo. Segue algumas questões antes de chamar o suporte:</br>
+  
+  1. Você está logando com um usuário que é super_admin;</br>
+  2. O typebot não está habilitado na conta. Confira se a opção →typebot_bots está ativado na conta pelo painel super_admin.
+</details>
+
 > [!NOTE]
 > Em caso de dúvidas não deixe de entrar em contato!
 
