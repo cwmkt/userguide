@@ -53,6 +53,12 @@ Aprenda a usar sua plataforma de forma eficaz, e aproveite ao máximo seus recur
   - Campo do indentificador (identifier) no formato errado;
 </details>
 
+<details>
+<summary>Mensagem sendo duplicada!</summary>
+  Caso tenha mensagens sendo duplicadas, faça o seguinte:</br>
+  Vá até o painel do super_admin, escolha a conta que está com o problema, clique em editar. Procure pela opção response_bot e certifique-se que esteja desmarcado!
+</details>
+
 > [!NOTE]
 > Em caso de dúvidas não deixe de entrar em contato!
 
