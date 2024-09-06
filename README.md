@@ -43,6 +43,16 @@ Aprenda a usar sua plataforma de forma eficaz, e aproveite ao máximo seus recur
   2. O typebot não está habilitado na conta. Confira se a opção →typebot_bots está ativado na conta pelo painel super_admin.
 </details>
 
+<details>
+<summary>Falha ao enviar mensagem</summary>
+  Tentou enviar mensagem e não chegou ao destinatário, segue possivéis causas:
+
+  1. Número desconectado. Você verá uma mensagem que o número está desconectado;</br>
+  2. Envio para um contato inválido. Exemplos de um contato inválido:</br>
+  - Contato com o campo de e-mail preenchido;
+  - Campo do indentificador (identifier) no formato errado;
+</details>
+
 > [!NOTE]
 > Em caso de dúvidas não deixe de entrar em contato!
 
