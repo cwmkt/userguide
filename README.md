@@ -59,6 +59,36 @@ Aprenda a usar sua plataforma de forma eficaz, e aproveite ao máximo seus recur
   Vá até o painel do super_admin, escolha a conta que está com o problema, clique em editar. Procure pela opção response_bot e certifique-se que esteja desmarcado!
 </details>
 
+<details>
+<summary>Ativando Google Sheets no Typebot</summary>
+  Segue video Tutorial Passo a Passo:
+  https://www.youtube.com/watch?v=S5uSu80BvzU
+
+Confira abaixo o Passo a passo para configurar seu Aplicativo no Google:
+👇 Google Console: 👇
+https://console.cloud.google.com/
+
+👇 Credenciais: 👇
+- GOOGLE_CLIENT_ID=
+- GOOGLE_CLIENT_SECRET=
+- NEXT_PUBLIC_GOOGLE_API_KEY=
+
+👇 Escopos: 👇
+https://www.googleapis.com/auth/service.management
+https://www.googleapis.com/auth/service.management.readonly
+
+👇 Urls de Redirecionamento Autorizados: 👇
+https://typebot.dominio.com/api/auth/callback/google
+https://typebot.dominio.com/api/credentials/google-sheets/callback
+
+👇 Bibliotecas: 👇
+Google Drive API
+Google Drive Activity API
+Google Sheets API
+Google Picker API
+Web Fonts Developer API
+</details>
+
 > [!NOTE]
 > Em caso de dúvidas não deixe de entrar em contato!
 
